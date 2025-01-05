@@ -1,7 +1,7 @@
 This projects contains a set of high-res images of poker cards, for use in iOS applications. It also contains instructions to regenerate them at any resolution.
 
 Original Source Credit:
-![king of spades](https://raw.githubusercontent.com/Xadeck/xCards/master/demo.png)
+[https://github.com/Xadeck/xCards/master/]
 
 Fork Credit:
 [https://github.com/alchme]
