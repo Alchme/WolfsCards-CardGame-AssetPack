@@ -1,7 +1,7 @@
 This projects contains a set of high-res images of poker cards, for use in iOS applications, and now any Game Dev 3D File as well has been included. We also removed scripts from original source, if needed find them below:
 
 Original Source Credit:
-[https://github.com/Xadeck/xCards/master/]
+[https://github.com/Xadeck/xCards/]
 
 Fork Credit:
 [https://github.com/alchme]
@@ -24,4 +24,9 @@ Poker cards have dimensions of 63.5cmx88.9cm according to [wikipedia](https://en
 1242x1739
 ```
 
+Example of a 2D Card:
+![king of spades](https://raw.githubusercontent.com/Xadeck/xCards/master/demo.png)
+
+Example of a 3D Card:
+[UPDATE EXAMPLES]
 Revised by Wolf on Github as Alchme
