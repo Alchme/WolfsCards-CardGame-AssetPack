@@ -1,4 +1,4 @@
-This projects contains a set of high-res images of poker cards, for use in iOS applications. It also contains instructions to regenerate them at any resolution.
+This projects contains a set of high-res images of poker cards, for use in iOS applications, and now any Game Dev 3D File as well has been included. We also removed scripts from original source, if needed find them below:
 
 Original Source Credit:
 [https://github.com/Xadeck/xCards/master/]
